@@ -1,0 +1,15 @@
+.listContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 310px;
+  height: 40px;
+  align-items: center;
+}
+.arrow {
+  height: 20px;
+  width: 20px;
+}
+.paragraph {
+  color: #64748b;
+}
